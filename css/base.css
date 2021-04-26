@@ -1,0 +1,142 @@
+/* start styling reno series */
+ 
+
+#our-Items{
+    height: 750px;
+} 
+.herosintalHr{
+border-bottom:1px solid black;
+}
+
+.sytleH2InOurItem{
+    margin-top: 10px;
+}
+.conIage{
+ position: relative; 
+
+}
+
+.borderEveryItem{
+    position: absolute;
+    z-index: 1;
+    background-color: #f7eded;
+    width: 78%;
+    margin-left: 12%;
+    height: 288px
+}
+.borderEveryItem2{
+    position: absolute;
+    z-index: 1;
+    background-color: #f7eded;
+    width: 78%;
+    margin-left: 12%;
+    height: 288px
+}
+
+.imageInOUrItem{
+margin-top: 10px;
+    height: 170px;
+    min-width: 60%;
+}
+.scaleImage{
+    transform: scale(1.5,1.2);
+}
+
+.changeColorToBlue{
+    color:blue;
+}
+
+
+.changeColorToBlack{
+    color:black;
+    border: 4px solid white;
+border-radius: 70%;
+margin-left: -1px;
+}
+
+.boActive{
+    border: 4px solid green;
+border-radius: 70%;
+margin-left: 1px;
+}
+.cls{
+    top:400px;
+}
+.clss{
+    top:400px;
+left:54%;
+
+}
+.clsss{
+    top:750px;
+    left:54%;
+}
+
+
+
+.clssslast
+{
+    top:750px;
+}
+.class1
+{
+left:85%;
+}
+
+.class2{
+left:167%;
+}
+
+.changeTopForTheFourth{
+    top:300px;
+}
+
+@media(max-width: 765px){
+    #our-Items{
+        height: 1700px;
+    } 
+    .classMe1
+    {
+        left:0;
+    top:0;
+    }
+    .classMe2
+    {
+        left:0;
+    top:298px;
+    }
+    .classMe3
+    {
+        left:0;
+    top:598px;
+    }
+    .classMe4
+    {
+        left:0;
+    top:898px;
+    }
+    .classMe5
+    {
+    left:0;
+    top:1198px;
+    }
+
+    
+
+} 
+
+/* single page */
+
+.editmage
+{
+max-height: 200px;
+width: 424px;
+}
+
+.overRidinGPInpartOne{
+color: #145A32;
+font-weight: 900;
+font-size: 2vw;
+
+
+}

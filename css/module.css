@@ -1,0 +1,399 @@
+/* curule */
+.marginTopForCurule{
+
+    margin-top: 100px;
+}
+
+
+.imageCursole{
+width: 100%;
+height: 450px;
+max-height: 450px;
+
+}
+
+
+@media (min-width: 800px){
+    .itemcon{
+        width: 100%;
+        height: 450px;
+        
+    }
+}
+
+
+
+@media (max-width: 600px){
+
+    .itemcon{
+        width: 100%;
+        height: 210px;
+    }
+}
+
+/* end of curusole */
+
+
+
+.randoImage{
+margin-top: 50px;
+}
+
+
+
+.marginbutninimages{
+margin-bottom: 58px;
+}
+
+
+
+/* start random image section */
+
+
+.thebestthings{
+
+background-color: #c0a69a;
+
+}
+
+.marginH2InTheBest{
+font-size:xx-large;
+line-height: 150px;
+}
+
+#showMoreIcon,#showlessIcon{
+cursor: pointer;
+
+}
+
+
+
+/* /////W11 over riding//// */
+
+
+/* .firstPart{
+    background-image:url("/image/firstImageInw11.jpg");
+    /* height: 200px; */
+
+    .firstImage{
+        position: relative;
+    }
+
+    .h4InFirstImage{
+
+        position: absolute;
+        z-index: 10;
+        top: 50%;
+        color: white;
+        left: 8%;
+        font-weight: 900;
+}
+
+
+.h4SecondInImage{
+    position: absolute;
+    z-index: 10;
+    top: 60%;
+    color: white;
+    left: 21%;
+    font-weight: 900;
+    font-size: 226%;
+
+}
+
+.pthierdInimage{
+    position: absolute;
+    z-index: 10;
+    top: 73%;
+    color: white;
+    left: 9%;
+    font-weight: 900;
+    font-size: 120%;
+
+}
+
+
+.PforthInImage{
+
+    position: absolute;
+    z-index: 10;
+    top: 79%;
+    color: white;
+    left: 18%;
+    font-weight: 900;
+    font-size: 111%;
+}
+
+
+
+
+#hideThiredSection , .marginTopForW11des{
+    transition: 3s;
+    opacity: 1;
+} 
+
+.fa-bluetooth:before {
+
+    color: blue;
+}
+
+#backGround{
+margin-top: 80px;
+    background-color:#F8F8FB;
+    height: 604px;
+    
+}
+
+.resizeImage{
+    max-width: 40%;
+    min-height: 190px;
+}
+
+
+
+
+
+
+@media (min-width: 800px){
+
+    .lineHeight{
+        margin-top: 100px;
+        text-align: right;
+        }
+}
+
+
+@media (min-width: 800px){
+
+    .lineHeight{
+        margin-top: 100px;
+        text-align: right;
+        }
+}
+
+
+
+@media (max-width: 900px){
+
+    .h4InFirstImage {
+        position: absolute;
+        z-index: 10;
+        top: 33%;
+        color: white;
+        left: 8%;
+        font-weight: 900;
+        font-size: 115%;
+    }
+    .pthierdInimage {
+        position: absolute;
+        z-index: 10;
+        top: 52%;
+        color: white;
+        left: 2%;
+        font-weight: 900;
+        font-size: 80%;
+    }
+    .PforthInImage {
+        position: absolute;
+        z-index: 10;
+        top: 59%;
+        color: white;
+        left: 8%;
+        font-weight: 900;
+        font-size: 87%;
+    }
+
+    .h4SecondInImage {
+        position: absolute;
+        z-index: 10;
+        top:39%;
+        color: white;
+        left: 11%;
+        font-size: 227%;
+        font-weight: 900;
+    }
+
+}
+.grayBackgroundForSection5{
+margin-top: 7%;
+}
+
+
+.resizeFont{
+    font-size: 192%;
+}
+
+.resizeParagragh{
+
+    font-size: 75%;
+}
+
+.inline-blockForDiv{
+margin-right: 10%;
+    display: inline-block;
+    opacity: 0;
+    transition: 2.5s;
+}
+
+.responsiveh3{
+font-size:3vw;
+}
+
+.grayBackgroundForSection4{
+margin-top: 70px;
+    background-color: #F8F8FB;
+    height: 980px;
+}
+
+#resizeHeightForimageFourInSectionFourW11{
+
+height: 600px;
+width: 200%;
+opacity: 0;
+transition:3.7s;
+}
+
+#addWidthForP{
+
+    opacity: 0;
+    transition: 3.2s;
+    margin-left:10%;
+    width: 70%;
+}
+
+#displayFirstheaderInSection4{
+    opacity: 0;
+    transition: 3s;
+}
+.resizeHeightForimageFourInSectionFiveW11{
+    transform: scale(.5);
+    margin-top: -10%;
+}
+
+#displayFirstheaderInSection5{
+margin-bottom: 30px;
+
+
+}
+.grayBackgroundForSection5{
+    opacity: 0;
+    transition: 4s;
+}
+
+
+.backGroundBlack{
+color: white;
+    background-color: black;
+    height: 700px;
+    margin-bottom: 5%;
+}
+
+
+.marginDiv{
+
+    margin-top: 20%;
+}
+
+.resizeHeightForimageFourInSectionSevenW11{
+opacity: 0;
+transition: 4s;
+max-height:600px;
+
+}
+
+
+@media (max-width: 800px){
+    .backGroundBlack{
+        color: white;
+            background-color: black;
+            height: 300px;
+            margin-bottom: 10%;
+        }
+
+
+        .resizeHeightForimageFourInSectionSevenW11{
+            opacity: 0;
+            transition: 4s;
+            max-height:300px;
+            
+            }
+            
+}
+
+
+.marginTopForSectionSeven{
+
+
+    margin-top: 10%;
+}
+
+.marginBottom{
+
+    margin-bottom: 10%;
+}
+#sectionSeven{
+opacity:1;
+transition: 4s;
+}
+
+.resizeImageIsectionEight{
+
+width: 90%;
+
+}
+.pargraghInLianeBlock{
+
+    display: inline;
+font-size: 1.2vw;
+margin-left: 5%;
+
+}
+
+.pargraghInLianeBlock1{
+
+    display: inline;
+font-size: 1.2vw;
+margin-left: 2%;
+
+}
+.pargraghInLianeBlock2{
+
+    display: inline;
+font-size: 1.2vw;
+margin-left: 5%;
+
+}
+.pargraghInLianeBlock3{
+
+    display: inline;
+font-size: 1.2vw;
+margin-left:0;
+
+}
+.pargraghInLianeBlock4{
+
+    display: inline-block;
+font-size: 1.2vw;
+margin-left:4%;
+
+}
+.marginParagragh{
+
+    margin-bottom: 5%;
+}
+#grayBackgroundForSection9{
+    margin-top: 10%;
+    background-color:#f8f8f8 ;
+    height: 1000px;
+}
+#grayBackgroundForSection9 p{
+
+margin-top: 3%;
+margin-bottom: 7%;
+}
+
+.resizeHeightForimageFourInSectionEightW11{
+
+    height: 50%;
+    width: 50%;
+}

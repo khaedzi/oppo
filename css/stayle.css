@@ -1,0 +1,31 @@
+@import 'layout.css';
+@import 'base.css';
+@import 'module.css';
+@import 'theme.css';
+
+
+
+.marginCharge{
+display: inline;
+margin: 2px 0 0 -17px;
+    
+}
+
+.marginChargeOne{
+    float: left;
+border:2px solicd black;
+    display: inline;
+    width: 20%;
+    margin-top: 133px;
+    height: 30px;
+}
+.phonewithCabeleCountainer{
+margin-top: 150px;
+}
+
+#hideShowLess{
+display: none;
+
+
+}
+

@@ -1,0 +1,140 @@
+/* header override */
+.navbar-inverseEdit{
+
+    background-color: #145A32;
+}
+.navInlinks>li>a {
+    padding-top: 15px;
+    padding-bottom: 3px;
+}
+
+.dropoverRideng{
+   
+    left:-8px;
+}
+.dropdown-menu {
+    top:132%;
+}
+.dropdownAboutUs{
+min-width: 469px;
+height:72px;
+}
+
+.dropdownAboutUs>li>a{
+margin-top: 7%;
+    font-weight: bolder;
+}
+.dropdownAboutUs>li>a:focus, .dropdownAboutUs>li>a:hover {
+    color: #262626;
+    text-decoration: none;
+  opacity: 80%;
+  border-bottom: 5px solid #26931d;
+    background-color:white;
+}
+@media (min-width: 768px){
+    .navbar-right .dropdownAboutUs {
+        right: 0;
+        left: -236px;
+        width: 450%;
+    }}
+@media (min-width: 768px){
+.navbar-right .dropoverRideng {
+    right: 0;
+    left: -236px;
+    width: 450%;
+}}
+
+.dropoverRideng>li>a:focus, .dropoverRideng>li>a:hover {
+    color: #262626;
+    text-decoration: none;
+  opacity: 80%;
+  transform: scale(.7);
+    background-color:white;
+}
+.resizeEnco{
+width: 30%;
+height: 20%;
+
+
+}
+.lestAboutUS{
+    float: left;
+    width: 44%;
+}
+.navbar-inverse  .colorBrand{
+
+color: white;
+font-weight: 900;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+letter-spacing:1px;
+font-size: 25px;
+}
+
+
+.navbar-inverse .navbar-nav>li>a{
+
+    color:white;
+   font-weight:bolder;
+}
+
+.breadcrumboverRide{
+    margin-top: 40px;
+}
+
+.navbar-inverse .navInlinks>li>a:focus, .navbar-inverse .navInlinks>li>a:hover  {
+    background-color: #145A32;
+    /* border-bottom: 7px solid #26931d; */
+    color: white;
+
+}
+.dropdownone{
+
+    min-width: 160px;
+    padding: 5px 0;
+}
+.navbar-inverse .navInlinks>.open>a, .navbar-inverse .navInlinks>.open>a:focus, .navbar-inverse .navInlinks>.open>a:hover {
+/* margin-left: ; */
+    background-color:#145A32;
+    /* border-bottom: 7px solid #26931d; */
+    color: white;
+
+
+}
+    .navbar-inverse .navInlinks>.active>a, .navbar-inverse .navInlinks>.active>a:focus, .navbar-inverse .navInlinks>.active>a:hover{
+        background-color: white;
+        border-bottom: 7px solid #26931d;
+        color: #28ab82;
+
+    }
+/* footer */
+.footerCon{
+color:#145A32;
+    background-color: black;
+}
+.ulInFooter{
+    margin-bottom: 50px;
+
+
+}
+.ulInFooter>*{
+width: 33%;
+float: right;
+text-align: center;
+color:white ;
+font-size: large;
+}
+.marginButtom{
+    margin-bottom: 120px;
+}
+.ukSocileMedia>*{
+
+float: left;
+margin-right: 3%;
+}
+
+
+.ukSocileMedia{
+    margin-top: 7%;
+    margin-left: 30%;
+    margin-bottom: 20%;
+}
