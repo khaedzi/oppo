@@ -17,11 +17,11 @@ function handle(event) {
     swal({ title: "Search location is empty !!", icon: "warning" });
   } else if (valueToLowerCase == "reno") {
     let valueToLowerCase = "renoseries";
-    window.location.replace(`${valueToLowerCase}.html`);
+    window.location.replace(`/${valueToLowerCase}.html`);
   } 
   else if (valueToLowerCase == "r") {
     let valueToLowerCase = "renoseries";
-    window.location.replace(`${valueToLowerCase}.html`);
+    window.location.replace(`/${valueToLowerCase}.html`);
   }
 
  else if (valueToLowerCase == "rino") {

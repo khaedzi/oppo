@@ -128,7 +128,7 @@ PhoneTwo.appendNew(
 "a15.html"
 );
 
-let PhoneFour = new Phone("image/a53ASeblack.png", "A53 Black" ,"image/a53ASeblue.png", "A53 Blue" );
+let PhoneFour = new Phone("image/a53ASeblack.png", "A53 Black" ,"image/a53Aseblue.png", "A53 Blue" );
 PhoneFour.appendNew(
 "borderEveryItem2",
 "changeColorToBlue2",
