@@ -117,7 +117,7 @@ PhoneThree.appendNew(
 "changeColorToBlue0",
 "borderEveryItem",
 "borderEveryItem2",
-"/reno5.html"
+"reno5.html"
 );
 
 let PhoneTwo = new Phone("image/reno4blak.png", "Reno 4 Blak" ,"image/reno4Blue.png", "Reno 4 Blue" );
@@ -128,7 +128,7 @@ PhoneTwo.appendNew(
 "changeColorToBlack1",
 "borderEveryItem",
 "borderEveryItem2",
-"/reno4.html"
+"reno4.html"
 );
 
 let PhoneFour = new Phone("image/Reno5-Fblack.png", "Reno 5 Black" ,"image/oppo-reno5-blue.jpg", "Reno 5F Blue" );
@@ -139,7 +139,7 @@ PhoneFour.appendNew(
 "changeColorToBlack2",
 "borderEveryItem",
 "borderEveryItem2",
-"/reno5f.html"
+"reno5f.html"
 );
 
 
@@ -151,7 +151,7 @@ PhoneFive.appendNew(
 "changeColorToBlack10",
 "borderEveryItem",
 "borderEveryItem2",
-"/reno4pro.html"
+"reno4pro.html"
 );
 
 let PhoneSix = new Phone("image/3black.jfif", "Reno 3 black" ,"image/3blue.jfif", "Reno 3 Blue" );
@@ -162,7 +162,7 @@ PhoneSix.appendNew(
 "changeColorToBlack11",
 "borderEveryItem",
 "borderEveryItem2",
-"/reno3.html"
+"reno3.html"
 );
 
 let firs=document.getElementById("borderEveryItem");
