@@ -123,8 +123,21 @@ left:167%;
 
     
 
-} 
+}
+.pInINSub{
+    margin-top: 5%;
+    margin-left: 0%;
+    color: white;
 
+}
+@media(max-width: 605px){
+
+.pInINSub
+{
+    margin-top: 12%;
+    margin-left: 9%;
+    color: white;
+}}
 /* single page */
 
 .editmage
