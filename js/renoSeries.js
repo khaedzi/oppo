@@ -63,12 +63,12 @@ Phone.prototype.appendNew = function (idOne,idTwo,idThree,idFour,classOne,classT
   borederEvery.appendChild(conFontAoswme);
   let FontAwsomeOne =document.createElement("i");
   FontAwsomeOne.setAttribute("class", "fas");
-  FontAwsomeOne.classList.add("fa-circle");
+  FontAwsomeOne.classList.add("fa-circle","changeColorToBlue");
   FontAwsomeOne.setAttribute("id", idTwo);
   conFontAoswme.appendChild(FontAwsomeOne);
   let secondCicle = document.createElement("i");
   secondCicle.setAttribute("class", "fas");
-  secondCicle.classList.add("fa-circle", "changeColorToBlue", "boActive");
+  secondCicle.classList.add("fa-circle", "changeColorToBlack", "boActive");
   conFontAoswme.appendChild(secondCicle);
   let con2 = document.createElement("div");
   con2.setAttribute("class", classTwo);
