@@ -83,7 +83,8 @@ cursor: pointer;
 
         position: absolute;
         z-index: 10;
-        top: 50%;
+        top: 24%;
+        font-size: 3vw;
         color: white;
         left: 8%;
         font-weight: 900;
@@ -93,22 +94,22 @@ cursor: pointer;
 .h4SecondInImage{
     position: absolute;
     z-index: 10;
-    top: 60%;
+    top: 38%;
     color: white;
     left: 21%;
     font-weight: 900;
-    font-size: 226%;
+    font-size: 5vw;
 
 }
 
 .pthierdInimage{
     position: absolute;
     z-index: 10;
-    top: 73%;
+    top: 60%;
     color: white;
     left: 9%;
     font-weight: 900;
-    font-size: 120%;
+    font-size: 2vw;
 
 }
 
@@ -117,11 +118,11 @@ cursor: pointer;
 
     position: absolute;
     z-index: 10;
-    top: 79%;
+    top: 70%;
     color: white;
     left: 18%;
     font-weight: 900;
-    font-size: 111%;
+    font-size: 2vw;
 }
 
 
@@ -172,7 +173,7 @@ margin-top: 80px;
 }
 
 
-
+/* 
 @media (max-width: 900px){
 
     .h4InFirstImage {
@@ -213,7 +214,7 @@ margin-top: 80px;
         font-weight: 900;
     }
 
-}
+} */
 .grayBackgroundForSection5{
 margin-top: 7%;
 }
@@ -384,7 +385,7 @@ margin-left:4%;
 #grayBackgroundForSection9{
     margin-top: 10%;
     background-color:#f8f8f8 ;
-    height: 1000px;
+    height: 80vw;
 }
 #grayBackgroundForSection9 p{
 
