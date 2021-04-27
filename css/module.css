@@ -386,8 +386,18 @@ margin-left:4%;
 #grayBackgroundForSection9{
     margin-top: 10%;
     background-color:#f8f8f8 ;
-    height: 80vw;
+    height: 79vw;
 }
+
+@media (max-width: 500px){
+    
+    #grayBackgroundForSection9{
+
+    height:119vw;
+
+}}
+
+
 #grayBackgroundForSection9 p{
 
 margin-top: 3%;
